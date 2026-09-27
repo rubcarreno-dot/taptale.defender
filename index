@@ -1,0 +1,701 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Taptale Defender - Privacy Policy</title>
+
+    <meta
+        name="description"
+        content="Privacy Policy for Taptale Defender."
+    >
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            margin: 0;
+            font-family:
+                -apple-system,
+                BlinkMacSystemFont,
+                "Segoe UI",
+                Roboto,
+                Helvetica,
+                Arial,
+                sans-serif;
+
+            background:
+                radial-gradient(
+                    circle at top,
+                    #182849 0%,
+                    #0d1830 35%,
+                    #080e1d 75%
+                );
+
+            color: #dfe8ff;
+            line-height: 1.7;
+            min-height: 100vh;
+        }
+
+        .container {
+            width: min(900px, calc(100% - 32px));
+            margin: 0 auto;
+            padding: 60px 0 70px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 45px;
+        }
+
+        .logo {
+            width: 78px;
+            height: 78px;
+            margin: 0 auto 20px;
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            border-radius: 24px;
+
+            background:
+                linear-gradient(
+                    145deg,
+                    #4f8cff,
+                    #315bd7 70%,
+                    #694ccf
+                );
+
+            box-shadow:
+                0 10px 35px rgba(53, 100, 255, 0.28),
+                inset 0 1px 0 rgba(255,255,255,0.25);
+
+            font-size: 37px;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: clamp(2rem, 5vw, 3rem);
+            line-height: 1.15;
+            color: #ffffff;
+            letter-spacing: -0.04em;
+        }
+
+        .subtitle {
+            margin-top: 10px;
+            color: #92a9d8;
+            font-size: 1rem;
+        }
+
+        .card {
+            background: rgba(16, 29, 56, 0.78);
+
+            border: 1px solid rgba(119, 158, 255, 0.16);
+            border-radius: 22px;
+
+            padding: 40px;
+
+            box-shadow:
+                0 25px 60px rgba(0, 0, 0, 0.25);
+
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+        }
+
+        h2 {
+            color: #ffffff;
+            margin-top: 42px;
+            margin-bottom: 12px;
+            font-size: 1.35rem;
+        }
+
+        h2:first-child {
+            margin-top: 0;
+        }
+
+        p {
+            margin: 0 0 16px;
+            color: #cbd7f1;
+        }
+
+        ul {
+            margin: 12px 0 18px;
+            padding-left: 24px;
+        }
+
+        li {
+            margin-bottom: 8px;
+            color: #cbd7f1;
+        }
+
+        strong {
+            color: #ffffff;
+            font-weight: 600;
+        }
+
+        a {
+            color: #77a8ff;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .highlight {
+            margin: 25px 0;
+            padding: 18px 20px;
+
+            border-left: 3px solid #628eff;
+            border-radius: 12px;
+
+            background: rgba(75, 116, 220, 0.10);
+
+            color: #d9e4ff;
+        }
+
+        .date {
+            display: inline-block;
+            margin-bottom: 25px;
+
+            padding: 7px 12px;
+
+            border-radius: 999px;
+
+            background: rgba(103, 138, 232, 0.12);
+            border: 1px solid rgba(123, 159, 255, 0.17);
+
+            color: #98b4ee;
+            font-size: 0.86rem;
+        }
+
+        footer {
+            text-align: center;
+            padding-top: 32px;
+
+            color: #61759e;
+            font-size: 0.85rem;
+        }
+
+        footer a {
+            color: #829bd0;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                width: min(100% - 20px, 900px);
+                padding-top: 35px;
+            }
+
+            .card {
+                padding: 25px 21px;
+                border-radius: 18px;
+            }
+
+            h2 {
+                margin-top: 34px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <main class="container">
+
+        <header class="header">
+
+            <div class="logo" aria-hidden="true">
+                🛡️
+            </div>
+
+            <h1>Taptale Defender</h1>
+
+            <div class="subtitle">
+                Privacy Policy
+            </div>
+
+        </header>
+
+        <article class="card">
+
+            <div class="date">
+                Last updated: September 27, 2026
+            </div>
+
+            <h2>1. Introduction</h2>
+
+            <p>
+                This Privacy Policy explains how information is handled when
+                you use <strong>Taptale Defender</strong> ("the Game"),
+                developed and published by <strong>Rubén Carreño</strong>.
+            </p>
+
+            <p>
+                Taptale Defender is designed to collect only the information
+                necessary to provide game functionality, synchronize game
+                progress, maintain leaderboards, authenticate players and
+                protect the Game and its online services against abuse.
+            </p>
+
+            <div class="highlight">
+                Taptale Defender does not sell your personal information and
+                does not use your game data for targeted advertising.
+            </div>
+
+
+            <h2>2. Information Processed by the Game</h2>
+
+            <p>
+                Depending on the features you use, Taptale Defender may
+                process limited information necessary for the operation of the
+                Game.
+            </p>
+
+            <p>This may include:</p>
+
+            <ul>
+                <li>Game progress and save data.</li>
+                <li>Player level, statistics, achievements and related gameplay information.</li>
+                <li>Leaderboard scores.</li>
+                <li>Game settings and preferences.</li>
+                <li>A technical account identifier used for authentication.</li>
+                <li>
+                    Technical information required to verify legitimate access
+                    to online game services.
+                </li>
+            </ul>
+
+            <p>
+                The Game does not require you to provide your real name,
+                postal address, phone number or other similar personal
+                information directly to the developer.
+            </p>
+
+
+            <h2>3. Google Play Games Services</h2>
+
+            <p>
+                Taptale Defender integrates
+                <strong>Google Play Games Services</strong>.
+            </p>
+
+            <p>
+                Google Play Games may be used for features such as:
+            </p>
+
+            <ul>
+                <li>Player authentication.</li>
+                <li>Leaderboards.</li>
+                <li>Game-related player identification.</li>
+                <li>Synchronization of supported game services.</li>
+            </ul>
+
+            <p>
+                When you use Google Play Games Services, Google may process
+                information according to its own privacy policies and account
+                settings.
+            </p>
+
+            <p>
+                Taptale Defender does not receive your Google account password.
+            </p>
+
+
+            <h2>4. Firebase Authentication</h2>
+
+            <p>
+                Taptale Defender uses
+                <strong>Firebase Authentication</strong> to securely associate
+                game data with a player account.
+            </p>
+
+            <p>
+                Authentication may use your Google Play Games identity to
+                create or identify a Firebase user.
+            </p>
+
+            <p>
+                The Game may store an internal Firebase user identifier
+                associated with your game progress. This identifier is used
+                for technical purposes and does not require the developer to
+                know your real-world identity.
+            </p>
+
+
+            <h2>5. Cloud Save and Game Data</h2>
+
+            <p>
+                Taptale Defender includes cloud synchronization features
+                designed to preserve and synchronize game progress.
+            </p>
+
+            <p>
+                Cloud save information may include:
+            </p>
+
+            <ul>
+                <li>Character and progression data.</li>
+                <li>Player level and experience.</li>
+                <li>Inventory and game resources.</li>
+                <li>Unlocks and progression milestones.</li>
+                <li>Gameplay configuration required to restore your save.</li>
+            </ul>
+
+            <p>
+                Cloud game information may be processed using
+                <strong>Google Firebase services</strong>, including
+                Firestore and Cloud Functions.
+            </p>
+
+            <p>
+                Save data may also be maintained locally on your device to
+                allow the Game to continue functioning when cloud services are
+                temporarily unavailable.
+            </p>
+
+
+            <h2>6. Local Data</h2>
+
+            <p>
+                Taptale Defender stores certain information locally on your
+                device.
+            </p>
+
+            <p>This may include:</p>
+
+            <ul>
+                <li>Local save data.</li>
+                <li>Game preferences.</li>
+                <li>Interface settings.</li>
+                <li>Temporary synchronization information.</li>
+            </ul>
+
+            <p>
+                Some locally stored data may be removed when you clear the
+                application's data or uninstall the Game.
+            </p>
+
+
+            <h2>7. Leaderboards</h2>
+
+            <p>
+                Taptale Defender may submit gameplay scores, such as player
+                level or other eligible statistics, to
+                <strong>Google Play Games leaderboards</strong>.
+            </p>
+
+            <p>
+                Depending on your Google Play Games privacy settings, your
+                player name, profile image or score may be visible to other
+                players through Google Play Games.
+            </p>
+
+            <p>
+                Taptale Defender may also perform server-side verification of
+                leaderboard information to reduce cheating, manipulation and
+                fraudulent score submissions.
+            </p>
+
+
+            <h2>8. Firebase and Google Cloud Services</h2>
+
+            <p>
+                Taptale Defender uses services provided by Google and Firebase
+                for technical game functionality.
+            </p>
+
+            <p>These services may include:</p>
+
+            <ul>
+                <li>Firebase Authentication.</li>
+                <li>Cloud Firestore.</li>
+                <li>Firebase Cloud Functions.</li>
+                <li>Firebase App Check.</li>
+                <li>Google Play Integrity.</li>
+                <li>Google Play Games Services.</li>
+            </ul>
+
+            <p>
+                These services may automatically process limited technical
+                information required to provide, secure and protect their
+                services, including device, application or network-related
+                information.
+            </p>
+
+            <p>
+                Google's handling of this information is governed by Google's
+                own privacy policies.
+            </p>
+
+
+            <h2>9. Security and Fraud Prevention</h2>
+
+            <p>
+                Taptale Defender uses technical security systems designed to
+                protect game services and reduce unauthorized access,
+                cheating, automated abuse and manipulation of game data.
+            </p>
+
+            <p>
+                These systems may include
+                <strong>Firebase App Check</strong> and
+                <strong>Google Play Integrity</strong>.
+            </p>
+
+            <p>
+                These services may evaluate technical information about the
+                application, device and installation in order to determine
+                whether requests originate from a legitimate instance of the
+                Game.
+            </p>
+
+
+            <h2>10. Purchases</h2>
+
+            <p>
+                If Taptale Defender offers digital purchases, transactions are
+                processed by <strong>Google Play</strong>.
+            </p>
+
+            <p>
+                The developer does not receive or store your complete payment
+                card or banking information.
+            </p>
+
+            <p>
+                Google Play may provide the Game with technical purchase
+                information, such as a purchase identifier, product identifier
+                or purchase token, where necessary to verify purchases and
+                grant purchased content.
+            </p>
+
+
+            <h2>11. Advertising</h2>
+
+            <p>
+                Taptale Defender does not currently use third-party
+                advertising networks or targeted advertising systems.
+            </p>
+
+
+            <h2>12. Analytics</h2>
+
+            <p>
+                Taptale Defender does not currently use third-party analytics
+                services for behavioral advertising or user profiling.
+            </p>
+
+            <p>
+                Technical service providers may nevertheless process limited
+                diagnostic or operational information as necessary to provide
+                their underlying services.
+            </p>
+
+
+            <h2>13. Sharing of Information</h2>
+
+            <p>
+                The developer does not sell or rent player information.
+            </p>
+
+            <p>
+                Information may be processed by service providers strictly
+                where necessary to operate the Game, including Google and
+                Firebase services used for authentication, cloud storage,
+                security, leaderboards and related functionality.
+            </p>
+
+            <p>
+                Information may also be disclosed where required by applicable
+                law or where reasonably necessary to protect the rights,
+                security or integrity of the Game and its users.
+            </p>
+
+
+            <h2>14. Data Retention</h2>
+
+            <p>
+                Game-related cloud data may be retained for as long as
+                necessary to provide synchronization, account functionality,
+                security and game progression services.
+            </p>
+
+            <p>
+                Local data remains on your device until it is overwritten,
+                deleted, application data is cleared or the Game is
+                uninstalled.
+            </p>
+
+            <p>
+                Certain records may be retained where required for security,
+                fraud prevention, transaction verification or legal
+                compliance.
+            </p>
+
+
+            <h2>15. Data Deletion</h2>
+
+            <p>
+                You may request deletion of personal data directly controlled
+                by the developer by contacting:
+            </p>
+
+            <p>
+                <a href="mailto:rubencarreno.dev@gmail.com">
+                    rubencarreno.dev@gmail.com
+                </a>
+            </p>
+
+            <p>
+                Please indicate that your request concerns
+                <strong>Taptale Defender</strong>.
+            </p>
+
+            <p>
+                Information managed directly by your Google account or Google
+                Play Games profile may need to be managed through the
+                corresponding Google account settings.
+            </p>
+
+
+            <h2>16. Children's Privacy</h2>
+
+            <p>
+                Taptale Defender does not knowingly request children to
+                directly provide sensitive personal information such as their
+                real name, address, telephone number or payment information.
+            </p>
+
+            <p>
+                Google Play and Google services may apply additional
+                protections depending on the user's age, account type,
+                jurisdiction and applicable parental controls.
+            </p>
+
+
+            <h2>17. International Processing</h2>
+
+            <p>
+                Services used by Taptale Defender may process information on
+                servers located in different countries.
+            </p>
+
+            <p>
+                Third-party service providers such as Google are responsible
+                for implementing the safeguards applicable to information
+                processed through their services.
+            </p>
+
+
+            <h2>18. Your Rights</h2>
+
+            <p>
+                Depending on your country or region, applicable privacy laws
+                may give you rights regarding your personal information,
+                including rights to request access, correction or deletion of
+                certain information.
+            </p>
+
+            <p>
+                Requests concerning information directly controlled by the
+                developer may be sent to:
+            </p>
+
+            <p>
+                <a href="mailto:rubencarreno.dev@gmail.com">
+                    rubencarreno.dev@gmail.com
+                </a>
+            </p>
+
+
+            <h2>19. Third-Party Services</h2>
+
+            <p>
+                Taptale Defender relies on services operated by Google.
+                Their use of information is subject to their respective terms
+                and privacy policies.
+            </p>
+
+            <p>
+                You can review Google's Privacy Policy at:
+            </p>
+
+            <p>
+                <a
+                    href="https://policies.google.com/privacy"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    https://policies.google.com/privacy
+                </a>
+            </p>
+
+            <p>
+                Information about Firebase privacy and security is available
+                at:
+            </p>
+
+            <p>
+                <a
+                    href="https://firebase.google.com/support/privacy"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    https://firebase.google.com/support/privacy
+                </a>
+            </p>
+
+
+            <h2>20. Changes to This Privacy Policy</h2>
+
+            <p>
+                This Privacy Policy may be updated when Taptale Defender
+                changes its features, services or data-processing practices,
+                or when required by applicable laws or platform policies.
+            </p>
+
+            <p>
+                The date shown at the top of this page indicates when the
+                Privacy Policy was most recently updated.
+            </p>
+
+
+            <h2>21. Contact</h2>
+
+            <p>
+                If you have questions about this Privacy Policy or the way
+                Taptale Defender handles information, you can contact:
+            </p>
+
+            <p>
+                <strong>Developer:</strong> Milestone Artwork
+                <br>
+
+                <strong>Application:</strong> Taptale Defender
+                <br>
+
+                <strong>Email:</strong>
+                <a href="mailto:milestone.artwork@gmail.com">
+                    milestone.artwork@gmail.com
+                </a>
+            </p>
+
+        </article>
+
+        <footer>
+            © 2026 Milestone Artwork · Taptale Defender
+        </footer>
+
+    </main>
+
+</body>
+</html>
